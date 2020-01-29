@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29709.97
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackSholesPricer", "BS_Pricer\BlackSholesPricer.csproj", "{A73842FC-6ACD-47DE-84FE-6E9869E524A5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackSholesPricer", "BlackSholesPricer\BlackSholesPricer.csproj", "{A73842FC-6ACD-47DE-84FE-6E9869E524A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackSholesPricerUnitTest", "BS_UnitTest\BlackSholesPricerUnitTest.csproj", "{8208DCA9-DB1A-40B8-B40F-68A1F753F586}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackSholesPricerUnitTest", "BlackSholesPricerUnitTest\BlackSholesPricerUnitTest.csproj", "{8208DCA9-DB1A-40B8-B40F-68A1F753F586}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
